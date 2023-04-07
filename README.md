@@ -12,3 +12,7 @@
 
 5. notebooks: This folder contains all .ipynb files used for parsing and profiling of the data
 
+
+
+Models
+Bayesian, Gaussian, Logistic
