@@ -1,3 +1,9 @@
 AGUMENTATION
 https://medium.com/analytics-vidhya/how-to-translate-text-with-python-9d203139dcf5
 'a filtering problem': sildes of course 'Algoritmi per big data' Università di Roma 3 
+
+
+
+
+DEPLOYMENT
+https://towardsdatascience.com/machine-learning-model-deployment-as-rest-api-in-four-easy-steps-e65764f7c5c
