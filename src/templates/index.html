@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        
+        <!--Make it compatibe to mobile devices-->
+        <meta name="viewport" content="width=device-width, intial-scale=1.0">
+
+        <title>Italian Languege detection</title>
+    </head>
+    <body style="background:white;">
+    <div class="'login">
+        <h1 style="color:darkblue;">Italian Languege detection</h1>
+        <form action="{{url_for('predict')}}"method="post">
+            <input type="text" name="frase" placeholder="input" required="required"/><br>
+
+            <button type="submit" class="btn btn-primary btn-block btn-large">Predict Languege</button>
+        </form>
+        <br>
+        <br>
+        <h4 style="color:rgb(0, 0, 0);">
+            {{prediction_text}}
+        </h4>    
+    </div>
+    </body>
+</html>
