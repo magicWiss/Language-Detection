@@ -1,0 +1,364 @@
+Phrase: seigenthaler è stato falsamente presentato come sospettato dell assassinio di john f
+Word: seigenthaler Total_count: [9] Ita_count: [2] Other_count: [7]
+Word: è Total_count: [263] Ita_count: [263] Other_count: [0]
+Word: stato Total_count: [23] Ita_count: [23] Other_count: [0]
+Word: falsamente Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: presentato Total_count: [] Ita_count: [] Other_count: []
+Word: come Total_count: [132] Ita_count: [118] Other_count: [14]
+Word: sospettato Total_count: [] Ita_count: [] Other_count: []
+Word: dell Total_count: [66] Ita_count: [65] Other_count: [1]
+Word: assassinio Total_count: [] Ita_count: [] Other_count: []
+Word: di Total_count: [679] Ita_count: [679] Other_count: [0]
+Word: john Total_count: [7] Ita_count: [1] Other_count: [6]
+Word: f Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: ബുഷ്
+Word: ബുഷ് Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: aceito sua proposta
+Word: aceito Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: sua Total_count: [83] Ita_count: [27] Other_count: [56]
+Word: proposta Total_count: [4] Ita_count: [3] Other_count: [1]
+
+============
+Phrase: le diste al clavo
+Word: le Total_count: [617] Ita_count: [145] Other_count: [472]
+Word: diste Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: al Total_count: [87] Ita_count: [59] Other_count: [28]
+Word: clavo Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: qui accueille  serveursquand 
+Word: qui Total_count: [187] Ita_count: [13] Other_count: [174]
+Word: accueille Total_count: [1] Ita_count: [0] Other_count: [1]
+Word:  Total_count: [] Ita_count: [] Other_count: []
+Word: serveursquand  Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: toestemming
+Word: toestemming Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: മുന്നോട്ടുപോകുക
+Word: മുന്നോട്ടുപോകുക Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: interrupting politely
+Word: interrupting Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: politely Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: weinig
+Word: weinig Total_count: [2] Ita_count: [0] Other_count: [2]
+
+============
+Phrase: подойди
+Word: подойди Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: запрашивая информацию
+Word: запрашивая Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: информацию Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: முடிக்கிறேன்
+Word: முடிக்கிறேன் Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: كينيدي
+Word: كينيدي Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: gne
+Word: gne Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: دعنى ارى
+Word: دعنى Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: ارى Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: الاتفاق والاختلاف
+Word: الاتفاق Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: والاختلاف Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: pr
+Word: pr Total_count: [2] Ita_count: [0] Other_count: [2]
+
+============
+Phrase: اقتراحات
+Word: اقتراحات Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: per esempio la regola
+
+
+
+
+
+o
+n
+io
+o
+n
+s
+
+p
+o
+t
+un
+t
+o
+e
+s
+
+
+⇒
+
+
+b
+tu
+r
+g
+e
+r
+
+
+
+
+displaystyle mathrm cipollepatate rightarrow mathrm burger
+
+ trovato nei dati di vendita di un supermercato indicherebbe che se un cliente acquista insieme cipolle e patate è probabile che acquisti anche carne per hamburger
+Word: per Total_count: [194] Ita_count: [179] Other_count: [15]
+Word: esempio Total_count: [30] Ita_count: [30] Other_count: [0]
+Word: la Total_count: [1461] Ita_count: [245] Other_count: [1216]
+Word: regola
+
+
+
+
+
+o
+n
+io
+o
+n
+s
+
+p
+o
+t
+un
+t
+o
+e
+s
+
+
+⇒
+
+
+b
+tu
+r
+g
+e
+r
+
+
+
+
+displaystyle Total_count: [] Ita_count: [] Other_count: []
+Word: mathrm Total_count: [2] Ita_count: [0] Other_count: [2]
+Word: cipollepatate Total_count: [] Ita_count: [] Other_count: []
+Word: rightarrow Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: mathrm Total_count: [2] Ita_count: [0] Other_count: [2]
+Word: burger
+
+ Total_count: [] Ita_count: [] Other_count: []
+Word: trovato Total_count: [] Ita_count: [] Other_count: []
+Word: nei Total_count: [11] Ita_count: [11] Other_count: [0]
+Word: dati Total_count: [26] Ita_count: [26] Other_count: [0]
+Word: di Total_count: [679] Ita_count: [679] Other_count: [0]
+Word: vendita Total_count: [3] Ita_count: [3] Other_count: [0]
+Word: di Total_count: [679] Ita_count: [679] Other_count: [0]
+Word: un Total_count: [855] Ita_count: [259] Other_count: [596]
+Word: supermercato Total_count: [] Ita_count: [] Other_count: []
+Word: indicherebbe Total_count: [] Ita_count: [] Other_count: []
+Word: che Total_count: [330] Ita_count: [330] Other_count: [0]
+Word: se Total_count: [498] Ita_count: [88] Other_count: [410]
+Word: un Total_count: [855] Ita_count: [259] Other_count: [596]
+Word: cliente Total_count: [] Ita_count: [] Other_count: []
+Word: acquista Total_count: [] Ita_count: [] Other_count: []
+Word: insieme Total_count: [18] Ita_count: [18] Other_count: [0]
+Word: cipolle Total_count: [] Ita_count: [] Other_count: []
+Word: e Total_count: [785] Ita_count: [375] Other_count: [410]
+Word: patate Total_count: [1] Ita_count: [1] Other_count: [0]
+Word: è Total_count: [263] Ita_count: [263] Other_count: [0]
+Word: probabile Total_count: [] Ita_count: [] Other_count: []
+Word: che Total_count: [330] Ita_count: [330] Other_count: [0]
+Word: acquisti Total_count: [] Ita_count: [] Other_count: []
+Word: anche Total_count: [41] Ita_count: [41] Other_count: [0]
+Word: carne Total_count: [3] Ita_count: [1] Other_count: [2]
+Word: per Total_count: [194] Ita_count: [179] Other_count: [15]
+Word: hamburger Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: நீ சாப்பிடு
+Word: நீ Total_count: [3] Ita_count: [0] Other_count: [3]
+Word: சாப்பிடு Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: ನೀವು ರಾಕ್ ಯು ರಾಕ್
+Word: ನೀವು Total_count: [211] Ita_count: [0] Other_count: [211]
+Word: ರಾಕ್ Total_count: [4] Ita_count: [0] Other_count: [4]
+Word: ಯು Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: ರಾಕ್ Total_count: [4] Ita_count: [0] Other_count: [4]
+
+============
+Phrase: tanıştığıma memnun oldum
+Word: tanıştığıma Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: memnun Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: oldum Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: ನೀವು ಹೇಗಿದ್ದೀರಿ
+Word: ನೀವು Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: ಹೇಗಿದ್ದೀರಿ Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: no me interesa
+Word: no Total_count: [359] Ita_count: [13] Other_count: [346]
+Word: me Total_count: [180] Ita_count: [11] Other_count: [169]
+Word: interesa Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: تجنب السؤال
+Word: تجنب Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: السؤال Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: ഞാൻ വഷളായി
+Word: ഞാൻ Total_count: [116] Ita_count: [0] Other_count: [116]
+Word: വഷളായി Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: organizzazioni dei media filosofia wikipedia ˌwɪkɪˈpiːdiə listen wikihpeedeeə o ˌwɪki listen wikee è un enciclopedia online multilingue aperta e collaborativa creata e gestita da una comunità di redattori volontari utilizzando un sistema di editing basato su wiki
+Word: organizzazioni Total_count: [] Ita_count: [] Other_count: []
+Word: dei Total_count: [50] Ita_count: [50] Other_count: [0]
+Word: media Total_count: [19] Ita_count: [6] Other_count: [13]
+Word: filosofia Total_count: [4] Ita_count: [2] Other_count: [2]
+Word: wikipedia Total_count: [933] Ita_count: [141] Other_count: [792]
+Word: ˌwɪkɪˈpiːdiə Total_count: [2] Ita_count: [0] Other_count: [2]
+Word: listen Total_count: [3] Ita_count: [0] Other_count: [3]
+Word: wikihpeedeeə Total_count: [2] Ita_count: [0] Other_count: [2]
+Word: o Total_count: [609] Ita_count: [107] Other_count: [502]
+Word: ˌwɪki Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: listen Total_count: [3] Ita_count: [0] Other_count: [3]
+Word: wikee Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: è Total_count: [263] Ita_count: [263] Other_count: [0]
+Word: un Total_count: [855] Ita_count: [259] Other_count: [596]
+Word: enciclopedia Total_count: [89] Ita_count: [42] Other_count: [47]
+Word: online Total_count: [38] Ita_count: [7] Other_count: [31]
+Word: multilingue Total_count: [4] Ita_count: [1] Other_count: [3]
+Word: aperta Total_count: [3] Ita_count: [3] Other_count: [0]
+Word: e Total_count: [785] Ita_count: [375] Other_count: [410]
+Word: collaborativa Total_count: [1] Ita_count: [1] Other_count: [0]
+Word: creata Total_count: [] Ita_count: [] Other_count: []
+Word: e Total_count: [785] Ita_count: [375] Other_count: [410]
+Word: gestita Total_count: [] Ita_count: [] Other_count: []
+Word: da Total_count: [430] Ita_count: [114] Other_count: [316]
+Word: una Total_count: [334] Ita_count: [147] Other_count: [187]
+Word: comunità Total_count: [20] Ita_count: [20] Other_count: [0]
+Word: di Total_count: [679] Ita_count: [679] Other_count: [0]
+Word: redattori Total_count: [4] Ita_count: [4] Other_count: [0]
+Word: volontari Total_count: [6] Ita_count: [6] Other_count: [0]
+Word: utilizzando Total_count: [1] Ita_count: [1] Other_count: [0]
+Word: un Total_count: [855] Ita_count: [259] Other_count: [596]
+Word: sistema Total_count: [27] Ita_count: [13] Other_count: [14]
+Word: di Total_count: [679] Ita_count: [679] Other_count: [0]
+Word: editing Total_count: [20] Ita_count: [0] Other_count: [20]
+Word: basato Total_count: [7] Ita_count: [7] Other_count: [0]
+Word: su Total_count: [165] Ita_count: [61] Other_count: [104]
+Word: wiki Total_count: [90] Ita_count: [16] Other_count: [74]
+
+============
+Phrase: ಈ ರಾತ್ರಿ ನೀನೇನು ಮಾಡುತ್ತಿದ್ದೀಯಾ
+Word: ಈ Total_count: [40] Ita_count: [0] Other_count: [40]
+Word: ರಾತ್ರಿ Total_count: [5] Ita_count: [0] Other_count: [5]
+Word: ನೀನೇನು Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: ಮಾಡುತ್ತಿದ್ದೀಯಾ Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: concordando e discordando
+Word: concordando Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: e Total_count: [785] Ita_count: [375] Other_count: [410]
+Word: discordando Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: ನಾನು ಹಾಳುಮಾಡಿದೆ
+Word: ನಾನು Total_count: [162] Ita_count: [0] Other_count: [162]
+Word: ಹಾಳುಮಾಡಿದೆ Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: şeklinde değiştirmiştir
+Word: şeklinde Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: değiştirmiştir Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: in  french researchers josé lages of the university of franchecomté in besançon and dima shepelyansky of paul sabatier university in toulouse published a global university ranking based on wikipedia scholarly citations
+Word: in Total_count: [1227] Ita_count: [281] Other_count: [946]
+Word:  Total_count: [] Ita_count: [] Other_count: []
+Word: french Total_count: [4] Ita_count: [0] Other_count: [4]
+Word: researchers Total_count: [11] Ita_count: [0] Other_count: [11]
+Word: josé Total_count: [2] Ita_count: [0] Other_count: [2]
+Word: lages Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: of Total_count: [1129] Ita_count: [3] Other_count: [1126]
+Word: the Total_count: [1612] Ita_count: [4] Other_count: [1608]
+Word: university Total_count: [22] Ita_count: [1] Other_count: [21]
+Word: of Total_count: [1129] Ita_count: [3] Other_count: [1126]
+Word: franchecomté Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: in Total_count: [1227] Ita_count: [281] Other_count: [946]
+Word: besançon Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: and Total_count: [848] Ita_count: [2] Other_count: [846]
+Word: dima Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: shepelyansky Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: of Total_count: [1129] Ita_count: [3] Other_count: [1126]
+Word: paul Total_count: [4] Ita_count: [0] Other_count: [4]
+Word: sabatier Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: university Total_count: [22] Ita_count: [1] Other_count: [21]
+Word: in Total_count: [1227] Ita_count: [281] Other_count: [946]
+Word: toulouse Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: published Total_count: [10] Ita_count: [0] Other_count: [10]
+Word: a Total_count: [1884] Ita_count: [199] Other_count: [1685]
+Word: global Total_count: [14] Ita_count: [0] Other_count: [14]
+Word: university Total_count: [22] Ita_count: [1] Other_count: [21]
+Word: ranking Total_count: [4] Ita_count: [0] Other_count: [4]
+Word: based Total_count: [19] Ita_count: [0] Other_count: [19]
+Word: on Total_count: [257] Ita_count: [1] Other_count: [256]
+Word: wikipedia Total_count: [933] Ita_count: [141] Other_count: [792]
+Word: scholarly Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: citations Total_count: [4] Ita_count: [0] Other_count: [4]
+
+============
+Phrase: jederzeit
+Word: jederzeit Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: disculparse
+Word: disculparse Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============
+Phrase: espera un momento
+Word: espera Total_count: [1] Ita_count: [0] Other_count: [1]
+Word: un Total_count: [855] Ita_count: [259] Other_count: [596]
+Word: momento Total_count: [31] Ita_count: [12] Other_count: [19]
+
+============
+Phrase: cuídate
+Word: cuídate Total_count: [1] Ita_count: [0] Other_count: [1]
+
+============

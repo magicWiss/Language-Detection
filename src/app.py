@@ -15,7 +15,7 @@ with open(model_path, 'rb') as f:
     model = pickle.load(f)
 
 #loading the tfidf embedding
-emb_path='Language-Detection\\models\\embeddings-tfIdf.pkl'
+emb_path='Language-Detection\\models\\tf_idf_after_agumentation_en_sp_fr.pkl'
 with open(emb_path, 'rb') as f:
     emb = pickle.load(f)
 

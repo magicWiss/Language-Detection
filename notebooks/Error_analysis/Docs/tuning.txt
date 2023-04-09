@@ -1,0 +1,86 @@
+
+=======================================================================
+Tf-idf hyperparam (version tf_idf_after_agumentation_2.pkl)
+
+max_df=1.0
+strip_accents='ascii'
+sublinear_tf=True
+
+
+SMOTE hyper:
+random_state=42
+
+GUASSINANB
+-
+
+ACCURACY->Target: 0.97 Actual 0.738481228668942
+ACCURACY->Target: 0.95 Actual 0.5757785467128028
+Matt: 0.5240823798196793
+
+===============================
+Tf-idf hyperparam (tf_idf_after_agumentation_3.pkl)
+-
+
+SMOTE hyper:
+random_state=42
+
+GUASSINANB
+-
+
+ACCURACY->Target: 0.97 Actual 0.7376279863481229
+ACCURACY->Target: 0.95 Actual 0.5738045738045738
+Matt: 0.520497572418782
+==================================================
+tf-idf hyperparam (tf_idf_after_agumentation_4.pkl)
+min_df=0.001
+
+SMOTE hyper:
+random_state=42
+
+GUASSINANB
+-
+
+ACCURACY->Target: 0.97 Actual 0.9577645051194539
+ACCURACY->Target: 0.95 Actual 0.8936627282491945
+Matt: 0.8750545065738471
+==========================================================
+tf-idf hyperparam (tf_idf_after_agumentation_5.pkl)
+min_df=0.003
+
+SMOTE hyper:
+random_state=42
+
+GUASSINANB
+-
+
+ACCURACY->Target: 0.97 Actual 0.908703071672355
+ACCURACY->Target: 0.95 Actual 0.7958015267175573
+Matt: 0.7664629599771264
+==========================================================
+Tf-idf hyperparam (tf_idf_after_agumentation_en_sp_fr)
+max_df=1.0*
+
+SMOTE hyper:
+random_state=42
+
+GUASSINANB
+-
+
+ACCURACY->Target: 0.97 Actual 0.984641638225256
+ACCURACY->Target: 0.95 Actual 0.9583333333333334
+Matt: 0.9497934447472787
+=========================================================
+Tf-idf hyperparam (tf_idf_after_agumentation_en_sp_fr)
+max_df=1.0*
+
+SMOTE hyper:
+random_state=42
+k_neighbors=5
+
+GUASSINANB
+-
+
+ACCURACY->Target: 0.97 Actual 0.984641638225256
+ACCURACY->Target: 0.95 Actual 0.9583333333333334
+Matt: 0.9497934447472787
+
