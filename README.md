@@ -104,19 +104,18 @@ ANSWER
 
  There are different models that can be used to implement a Machine Translation system for example RNN's and Transformers.
  The first one could be use in scenarios where the lenght of the input is not that big and the number of languages that is trained to translate is limited. This is because RNN's are known to be difficult to train and handle poorly long input text.
- Tranasformers on the other hand are, could be used in Machine translation as an encoder-decoder architecture to translate text from one language to another.
- A high level overview of the possible way transformes could be use for this task is the following:
- 1)Data collction: collecting pairs of sentenses in source and target languages (the relation between source and target is bidirectional). These could be stored in parallel text files or TMX files.
+ Transformers on the other hand are, could be used in Machine translation as an encoder-decoder architecture to translate text from one language to another.
+ A high level overview of the possible way transformers could be used for this task is the following:
+ 1)Data collection: collecting pairs of sentences in source and target languages (the relation between source and target is bidirectional). These could be stored in parallel text files or TMX files.
 
- 2)Data cleaning: Before processing the senteneces, the retrived pairs should be filtered, deleting eventual incorrect transaltion paris (using diffrent methods).
+ 2)Data cleaning: Before processing the sentences, the retrieved pairs should be filtered, deleting eventual incorrect translation pairs (using different methods).
 
- 3) Data preparation: all the sentenses are tokenized into words or subwords, and appropriate preprocessing steps such as lowercasing, punctuation removal, and numerical normalization are applied.
+ 3) Data preparation: all the sentences are tokenized into words or subwords, and appropriate preprocessing steps such as lowercasing, punctuation removal, and numerical normalization are applied.
   
  4) Model Training: It uses an encoder and a decoder to process the source and target sentences respectively. The encoder has stacked self-attention layers followed by feed-forward neural networks to capture contextual information from the source sentences. The decoder also has stacked self-attention layers followed by feed-forward neural networks, and it generates translations word by word based on the encoded source sentences.
 
 5) Model Evaluation: The model should be evaluated using specific metrics such as BLEU or Chrf
-
-One aspect that is crucial for the system to work is how the data is stored for futher training of the model.
+Other aspect not mentioned is related on how the data (pairs of sentences) is stored for further training of the model.
 
 
 Question 2) Imagine having to manage customers with different needs: some need the highest quality, by compromising on inference speed. Others need to scale the inference over a huge amount of data, and have time constraints (i.e., they want a translation obtained in a few milliseconds), while maintaining good quality. How would you handle the Machine Translation models in this scenario?
@@ -124,8 +123,8 @@ Question 2) Imagine having to manage customers with different needs: some need t
 ANSWER
 
  There are many ways models could be handled in this scenario. 
- The first way is to offer diffrent models for diffrent requirements. For example, if a customers  prioritize quality over speed, more sophisticated  models could be used, such as Transformer.
- On the other hand customers with time constraints and the need for fast inference, i would offer smaller models like SMT or RNNs.
+ The first way is to offer different models for different requirements. For example, if a customer prioritize quality over speed, more sophisticated  models could be used, such as Transformer.
+ On the other hand, customers with time constraints and the need for fast inference, i would offer smaller models like SMT or RNNs.
 
  Another way could be fine-tuning the models to the specific requirements of the customers.
 
@@ -134,6 +133,6 @@ ANSWER
  
  ANSWER
 
- To monitor the quality of a Machine Translation (MT) system currently in production a human-in the loop system could be implemented. First, we have to define the quality metrics to evaluate our system and  collect a representative sample of translated texts from our MT system. 
- After that the human comes into play. Experts translators should conduct evaluations to rate translation quality based on the defined metrics. Other then human feedback automated metrics, such as BLEU, TER, METEOR, could be used.
+ To monitor the quality of a Machine Translation (MT) system currently in production a human-in the loop system could be implemented. First, we must define the quality metrics to evaluate our system and collect a representative sample of translated texts from our MT system. 
+ After that the human comes into play. Experts’ translators should conduct evaluations to rate translation quality based on the defined metrics. Other than human feedback automated metrics, such as BLEU, TER, METEOR, could be used.
  Finally, the system should conduct error analysis to identify common errors or patterns in the translations.
